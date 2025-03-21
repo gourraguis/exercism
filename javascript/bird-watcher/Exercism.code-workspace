@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "bird-watcher",
+			"path": "."
+		},
+		{
+			"name": "poetry-club-door-policy",
+			"path": "../poetry-club-door-policy"
+		},
+		{
+			"name": "elyses-enchantments",
+			"path": "../elyses-enchantments"
+		},
+		{
+			"name": "vehicle-purchase",
+			"path": "../vehicle-purchase"
+		},
+		{
+			"name": "annalyns-infiltration",
+			"path": "../annalyns-infiltration"
+		},
+		{
+			"name": "freelancer-rates",
+			"path": "../freelancer-rates"
+		},
+		{
+			"name": "hello-world",
+			"path": "../hello-world"
+		},
+		{
+			"name": "lasagna",
+			"path": "../lasagna"
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"Exercism"
+		]
+	}
+}
